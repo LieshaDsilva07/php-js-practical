@@ -23,9 +23,9 @@
         </ul>
          <b>Screenshot:</b>
          <h4> Before</h4>
-        <img src="./images/2.png" alt="DOM Manipulation Screenshot">
-        <h4> Before</h4>
         <img src="./images/3.png" alt="DOM Manipulation Screenshot">
+        <h4> After</h4>
+        <img src="./images/2.png" alt="DOM Manipulation Screenshot">
 
 <h2>✅ Problem Statement 3: Real-Time User Activity Tracker</h2>
         <ul>
